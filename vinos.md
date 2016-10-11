@@ -6,7 +6,7 @@ title: Vinos
 # Lista de vinos
 
 
-## Table of Contents
+### Listado
 1. [Gran Reserva](#gran-reserva)
 	1. [Ramirana](#ramirana)
 	2. [Casa Marín](#casa-marin)
