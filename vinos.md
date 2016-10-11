@@ -5,9 +5,24 @@ title: Vinos
 
 # Lista de vinos
 
-## Gran Reserva
 
-### Ramirana
+## Table of Contents
+1. [Gran Reserva](#gran-reserva)
+	1. [Ramirana](#ramirana)
+	2. [Casa Marín](#casa-marin)
+	3. [Torres](#torres)
+2. [Reserva](#reserva)
+	1. [Santa Rita](#santa-rita)
+	2. [Tutunjian Pacífico Sur](#pacifico-sur)
+	3. [Aresti](#aresti)
+
+___
+
+
+
+## <a name="gran-reserva"></a>Gran Reserva
+
+### <a name="ramirana"></a>Ramirana
 #### Gran Reserva Syrah/Carmenère 2012 - Valle del Maipo - $5000.- (2 un)
 
 ![Image]({{ site.baseurl }}/images/vinos/gr1.jpg)
@@ -16,7 +31,7 @@ title: Vinos
 ___
 
 
-### Casa Marín
+### <a name="casa-marin"></a>Casa Marín
 #### Cartagena Carmenère 2015 - Valle de Colchagua - $7000.-
 
 ![Image]({{ site.baseurl }}/images/vinos/gr3.jpg)
@@ -34,7 +49,7 @@ ___
 ___
 
 
-### Torres
+### <a name="torres"></a>Torres
 #### Sangre de Toro Tempranillo 2014 - Cataluña - $8000.-
 
 ![Image]({{ site.baseurl }}/images/vinos/gr5.jpg)
@@ -51,10 +66,10 @@ ___
 
 ___
 
-## Reserva
+## <a name="reserva"></a>Reserva
 
 
-### Santa Rita
+### <a name="santa-rita"></a>Santa Rita
 #### SR Carmenère Blend 2015 - Valles del Maule y Rapel - $3000.-
 
 ![Image]({{ site.baseurl }}/images/vinos/r1.jpg)
@@ -73,7 +88,7 @@ ___
 
 
 
-### Tutunjian Pacífico Sur
+### <a name="pacifico-sur"></a>Tutunjian Pacífico Sur
 #### Cabernet sauvignon 2014 - Valle de Curicó - $3000.-
 
 ![Image]({{ site.baseurl }}/images/vinos/r3.jpg)
@@ -90,7 +105,7 @@ ___
 ___
 
 
-### Aresti
+### <a name="aresti"></a>Aresti
 #### Reserva Especial Release Cabernet sauvignon 2014 - Valle de Colchagua - $3000.-
 
 ![Image]({{ site.baseurl }}/images/vinos/r5.jpg)
