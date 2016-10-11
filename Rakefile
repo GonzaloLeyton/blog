@@ -9,4 +9,8 @@ namespace :deploy do
 		puts "Server address: http://127.0.0.1:4000/"
 		puts `bundle exec jekyll serve --watch`
 	end
+
+	task :prod do
+		puts `bundle exec puma -t 8:32 -w 3 -p $PORT`
+	end
 end
